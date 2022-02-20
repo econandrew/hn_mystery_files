@@ -20,4 +20,4 @@ Sadly, the thread quickly sank, but I couldn't let it go. After a few hours the 
 
 It sounds like twooclock has other files in this format, so if they don't render 100% correctly with my notebook, I can probably use them to fill in some of the gaps in my decoder / renderer.
 
-You can interact with this notebook without installing anything locally by [running it](https://mybinder.org/v2/gh/econandrew/hn_mystery_files/HEAD?labpath=hn_mystery_files.ipynb) on the Alan Turing Institutes Binder service. To make the second half run, you'll have to uncomment and run the `!pip install pillow` command to install the `pillow` image library.
+You can view the notebook with the code and renderings of all four files [here on github](hn_mystery_files.ipynb) or [run it without installing anything locally](https://mybinder.org/v2/gh/econandrew/hn_mystery_files/HEAD?labpath=hn_mystery_files.ipynb) on the Alan Turing Institutes Binder service. To make the second half run, you'll have to uncomment and run the `!pip install pillow` command to install the `pillow` image library.
