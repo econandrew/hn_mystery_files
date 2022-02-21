@@ -1,0 +1,98 @@
+                                                                                                                        
+         INFINITIV      PRATERITUM     PERFEKT          POMEN                                                           
+                                                                                                                        
+         abwaschen      wuscht ab      hat abgewaschen     prati posodo                                                 
+         anfangen       fing an        hat angefangen      zaceti                                                       
+         ankommen auf   kam an         ist angekommen                                                                   
+         ansehen        sah an         hat angesehen       gledati                                                      
+         anziehen       zog an         hat angezogen       obleci                                                       
+         auffallen      fiel auf       ist aufgefallen     pasti v oci                                                  
+         aufstehen      stand auf      ist aufgestanden    vstati                                                       
+         aussehen       sah aus        hat ausgesehen      izgledati                                                    
+         aussterben     starb aus      hat ausgestorben    izumreti                                                     
+         beginnen       begann         hat begonnen        zaceti                                                       
+         bekommen       bekam          hat bekommen        dobiti                                                       
+         beschrieben    beschrieb      hat beschrieben     opisati                                                      
+         bewerben       bewarb         hat beworben        potegovati se                                                
+         biegen         bog            hat gebogen         upogniti                                                     
+         bieten         bot            hat geboten         nuditi                                                       
+         bitten         bat            hat gebeten         prositi                                                      
+         bleiben        blieb          ist geblieben       ostati                                                       
+         bringen        bracht         hat gebracht        prinesti                                                     
+         denken         dachte         hat gedacht         misliti                                                      
+         durfen         durfte         hat gedurft         smeti                                                        
+         einreiben      rib ein        hat eingereiben                                                                  
+         erfaren        erfuhr         hat erfahren                                                                     
+         essen          a              hat gegessen        jesti                                                        
+         fahren         fuhr           ist gefahren        peljati se                                                   
+         fallen         fiel           ist gefallen        pasti                                                        
+         fangen         fing           hat gefangen        loviti                                                       
+         fernsehen      sah fern       hat ferngesehen     gledati TV                                                   
+         finden         fand           hat gefunden        najti                                                        
+         fliegen        flog           ist geflogen        leteti                                                       
+         flie en        flo            ist geflossen       teci                                                         
+         geben          gab            hat gegeben         dati                                                         
+         gefallen       gefiel         hat gefallen                                                                     
+         gehen          ging           ist gegangen        iti                                                          
+         gelingen       gelang         ist gelungen        posreciti se                                                 
+         gewinnen       gewann         hat gewonnen        zmagati                                                      
+         haben          hatte          hat gehabt          imeti                                                        
+         halten         hielt          hat gehalten        ustaviti se                                                  
+         hangen         hing           hat gehangen        viseti                                                       
+         helfen         half           hat geholfen        pomagati                                                     
+         hei en         hei            hat gehei en        imenovati se                                                 
+         herumfahren    fuhr herum     ist herumgefahren   voziti se naokoli                                            
+         herumstehen    stand herum    hat herumgestanden  posedati naokoli                                             
+         kennen         kannte         hat gekannt         poznati                                                      
+         kommen         kam            ist gekommen        priti                                                        
+         laden          lud            hat geladen         povabiti                                                     
+         lassen         lie            hat gelassen        pustiti                                                      
+         laufen         lief           hat gelassen        teci                                                         
+         lesen          las            ist gelaufen        brati                                                        
+         liegen         lag            hat gelesen         poloziti                                                     
+         mi lingen      mi lang        ist mi lungen       ponesreciti se                                               
+         mogen          mochte         hat gemocht         marati                                                       
+         mussen         mu te          hat gemu t          morati                                                       
+         nehmen         nahm           hat ge nommen       vzeti                                                        
+         nennen         nannte         hat genannt         imenovati                                                    
+         raten          riet           hat geraten         svetovati                                                    
+         reiten         ritt           hat geritten        jezditi                                                      
+         rufen          rief           hat gerufen         klicati                                                      
+         rumsitzen      sa rum         hat rumgesessen     posedati                                                     
+         rumstehen      standrum       hat rumgestanden                                                                 
+         scheinen       schienn        hat geschienen      sijati                                                       
+         schlafen       schlief        hat geschlafen      spati                                                        
+         schlagen       schlug         hat geschlagen      tepsti                                                       
+         schlie en      schlo          hat geschlossen     zapreti                                                      
+         schreiben      schreib        hat geschrieben     pisati                                                       
+         schreien       schrie         hat geschrien       vpiti                                                        
+         schwimmen      schwamm        hat geschwommen     plavati                                                      
+         sehen          sah            hat gesehen         videti                                                       
+         sein           war            ist gewesen         biti                                                         
+         singen         sang           hat gesungen        peti                                                         
+         sitzen         sa             hat gesessen        sedeti                                                       
+         sprechen       sprach         hat gesprochen      govoriti                                                     
+         springen       sprang         ist gesprungen      skociti                                                      
+         stehen         stand          hat gestanden       stati                                                        
+         stehenbleiben  bliebstehen    ist stehengeblieben zaustaviti se                                                
+         steigen        stieg          ist gestiegen       dvigati                                                      
+         sterben        starb          ist gestorben       izumreti                                                     
+         streiten       stritt         hat gestritten      kregati se                                                   
+         tragen         trug           hat getragen        nositi                                                       
+         treffen        traf           hat getroffen       srecati/zadeti                                               
+         treiben        trieb          hat getrieben                                                                    
+         treten         trat           hat getreten        stopati                                                      
+         trinken        trank          hat getrunken       piti                                                         
+         tun            tat            hat getan           storiti                                                      
+         umsteigen                     ist umgestiegen                                                                  
+         verbringen     verbracht      hat verbracht                                                                    
+         vergessen      verga          hat vergessen       pozabiti                                                     
+         verlieren      verlor         hat loren           izgubiti                                                     
+         verstehen      verstand       hat standen         razumeti                                                     
+         wachsen        wuchs          ist gewachsen       rasti                                                        
+         waschen        wusch          hat gewaschen       umivati                                                      
+         werden         wurde          hat geworden        postati                                                      
+         wissen         wu te          hat gewu t          vedeti                                                       
+         ziehen         zog            hat gezogen         obleci                                                       
+         zuruckfahren   fuhrzuruck     ist zuruckgefahren  potovati nazaj                                               
+                                                                                                                        

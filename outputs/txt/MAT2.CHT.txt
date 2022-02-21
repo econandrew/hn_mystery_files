@@ -1,0 +1,90 @@
+                                                                                                                        
+ LLiinneeaarrnnaa  eennaaccbbaa  zz  ddvveemmaa  nneezznnaannkkaammaa                                                   
+                                                                                                                        
+ ax!+by!=c!                                                                                                             
+ ax@+by@=c@  sistem dveh lin. enacb z dvema neznankama                                                                  
+                                                                                                                        
+ Mozne resitve:-ena resitev:(x!,y!);secnici                                                                             
+               -ni resitve;vzporednici                                                                                  
+               -nesteto resitev;ena in ista premica                                                                     
+               -vsak par je resitev;(0*x+0*y=0)                                                                         
+ MMeettooddee  rreesseevvaannjjaa::                                                                                     
+ I.GRAFICNA:                                                                                                            
+   a)Napravis tabelo                                                                                                    
+   b)Narises graf                                                                                                       
+   c)Tocka kjer se premici sekata je resitev                                                                            
+ II.ALGEBRAJSKE:                                                                                                        
+                                                                                                                        
+ 1.Zamenjalna:                                                                                                          
+   a)Iz ene enacbe izrazis eno od neznank                                                                               
+   b)Vstavis v drugo enacbo                                                                                             
+   c)Resis enacbo in dobis resitev                                                                                      
+ 2.Metoda nasprotnih koeficjentov:                                                                                      
+   a)uredis enacbi                                                                                                      
+   b)Odpravis eno od neznank (mnozis z nasprotnimi ...)                                                                 
+   c)Enacbi sestejes                                                                                                    
+   d)Resis nastalo enacbo in dobis resitev za eno od neznank                                                            
+   e)ponovis vse od (b) naprej le da odpravis zdaj drugo neznanko                                                       
+                                                                                                                        
+   Primer: 15x-21y=1║*4    15x-21y=1║*-4                                                                                
+           20x-28y=1║*3    20x-28y=1║*3                                                                                 
+           ═════════╩══    ═════════╩══                                                                                 
+              120x=7          168y=-1                                                                                   
+                                                                                                                        
+          Resitev: x=7/120 in y=-1/168                                                                                  
+ 3.Metoda z determinantami:                                                                                             
+   a)Ugotovis determinanto sistema (D)                                                                                  
+   b)Ugotovis determinanto neznanke x (Dx)                                                                              
+   c)Ugotovis determinanto neznanke y (Dy)                                                                              
+   d)Obravnavas enacbo                                                                                                  
+                                                                                                                        
+   Primer: a2x+aby=b4                                                                                                   
+           ax + ay=a2b                                                                                                  
+                                                                                                                        
+       │a2,ab│   #   @                                                                                                  
+   DD==│a ,a │==a -ab =a(a2-b2)=a(a+b)(a-b)   -Determinanta sistema                                                     
+                                                                                                                        
+        │b4 ,ab│                                                                                                        
+   DDx==│a2b,a │==ab2(b2-a2)=-ab2(a+b)(a-b)   -Determinanta neznanke X                                                  
+                                                                                                                        
+        │a2,b4 │                                                                                                        
+   DDy==│ b,a2b│==b(a4-b4)=b(a+b)(a-b)(a2+b2) -Determinanta neznanke Y                                                  
+                                                                                                                        
+   Obravnava: 1.D ni 0 <── (a ni 0) in (a ni -b) in (a ni b)                                                            
+                Resitev: x = Dx/D = -b2   y = Dy/D = b(a2+b2)/a                                                         
+                                                                                                                        
+              2.D=0 in Dx=0 in Dy=0 \<── ║a║=║b║ ni 0                                                                   
+                Nesteto urejenih parov resitev.                                                                         
+                                                                                                                        
+              3.D=0 in (Dx=0 ali Dx ni 0) <── a=0                                                                       
+                Ni resitve.                                                                                             
+                                                                                                                        
+              4.a=b=0                                                                                                   
+                Vsak urejen par je resitev.                                                                             
+ 4.Uvedba novih neznank:                                                                                                
+   a)Kadar imamo vec enakih clenov, namesto njih uvedemo nove neznanke.                                                 
+   b)Resimo poenostavljeno enacbo in tako dobimo resitve upeljanih neznank.                                             
+   c)Iz njih dobimo potem vrednost neznank.                                                                             
+                                                                                                                        
+   Primer:   2         1              1        ═╗                                                                       
+          ═══════ + ════════ = 0   ═══════ = z  ╚╗                                                                      
+           2x+y-1    x-2y+1         2x+y-1       ║                                                                      
+                                                 ╠ Vpeljem novi neznanki (v,z)                                          
+             4         1              1          ║                                                                      
+          ═══════ + ════════ = 1   ═══════ = v   ║                                                                      
+           2x+y-1    x-2y+1         x-2y+1      ╔╝                                                                      
+        ──────────────────────────             ═╝                                                                       
+        2z+v=0                                                                                                          
+        4z-v=1                                                                                                          
+        ══════════════                                                                                                  
+        z=1/6 ; v=-1/3                                                                                                  
+                                                                                                                        
+           1          1                        ═╗                                                                       
+        ═══════ = z = ═  ──> 2x+y-1=6 ──> x=2   ╚╗                                                                      
+         2x+y-1       6                          ║                                                                      
+                                                 ╠ Resitev: x=2 in y=3                                                  
+           1           1                         ║                                                                      
+        ═══════ = v = -═ ──> x-2y+1=-3 ──> y=3   ║                                                                      
+         x-2y+1        3                        ╔╝                                                                      
+                                               ═╝                                                                       
+                                                                                                                        

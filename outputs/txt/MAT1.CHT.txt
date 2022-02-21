@@ -1,0 +1,72 @@
+                                                                                                                        
+   LLiinneeaarrnnee  nneeeennaaccbbee                                                                                   
+                                                                                                                        
+   kx+n=0 -linearna enacba                                                                                              
+                                                                                                                        
+   kx+n>0 -linearna neenacba                                                                                            
+   kx+n<0 -linearna neenacba                                                                                            
+                                                                                                                        
+   Lahko jih resimo:                                                                                                    
+                                                                                                                        
+   1.ALGEBRAJSKO:                                                                                                       
+                                                                                                                        
+   Linearne neenacbe resujemo tako kot linearne enacbe.                                                                 
+   Pri mnozenju z negativnim stevilom se neenacaj spremeni.                                                             
+                                                                                                                        
+   Primer: 3x+2 <2x-1 <4x+3                                                                                             
+           (3x+2<2x-1) in (2x-1<4x+3)                                                                                   
+               x<-3           x>-2                                                                                      
+                                                                                                                        
+              ╞════════     ══════╡                                                                                     
+           ╞══════════╬═════╬══════╬════╡    x<-3 in x>-2                                                               
+                     -#    -@      )         ni resitve !                                                               
+                                                                                                                        
+   Primer: a(x-a-3) < 2(x-5)                                                                                            
+           ax-a2-3a < 2x-10                                                                                             
+           ax-2x    < -3a-a2-10 -vse clene z neznanko na levo !!!                                                       
+           x(a-2)   < (a+5)(a-2) /:(a-2) -delis s koeficjentom neznanke !!!                                             
+                                                                                                                        
+           1. (a-2) > 0 ce a>2 ; x>(a+5)                                                                                
+           2. (a-2) < 0 ce a<2 ; x<(a+5)                                                                                
+           3. (a-2) = 0 ce a=2 ; x*0 < 7*0 Ni resitve !                                                                 
+                                                                                                                        
+   2.GRAFICNO:                                                                                                          
+                                                                                                                        
+     Graficno metodo uporabljamo le redko kdaj, ker neenacbo lazje resimo                                               
+     algebrajsko.                                                                                                       
+                                                                                                                        
+   RRaazzcceeppnnee  nneeeennaaccbbee                                                                                   
+                                                                                                                        
+   Primer: x(x+3) < 10 -Enacbo najprej reduciramo na nic in razcepimo!                                                  
+           (x-2)(x+5) < 0                                                                                               
+                                                                                                                        
+   Lahko resimo na dva nacina:                                                                                          
+                                                                                                                        
+   1.nacin:Prevedemo jo v sistem dveh neenacb                                                                           
+           1.x+5>0                     2.x+5<0                                                                          
+             x-2<0                       x-2>0                                                                          
+            ═══════                     ═══════                                                                         
+             x>-5                        x<-5                                                                           
+             x<2                         x>2                                                                            
+           Presek intervalov           Presek intevalov                                                                 
+           je enak -5<x<2              je enak 2<x<-5 ──> prazna mnozica                                                
+                                                                                                                        
+           Neenacba ima resitev -5<x<2.                                                                                 
+                                                                                                                        
+   2.nacin:Narisemo stevilsko premico.                                                                                  
+           Poiscemo nicle leve strani urejene enacbe.(x!=-5,x@=2)                                                       
+                                                                                                                        
+               ╞════╬═══════════════╬══════╬═══╡                                                                        
+                   -5               0     +2                                                                            
+                                                                                                                        
+           Stevilska premica razpade na tri intervale.                                                                  
+           V intervalu x>2 sta oba faktorja pozitivna produkt je pozitiven.                                             
+           V intervalu -5<x<2 je 1.faktor (x+5) pozitiven, 2.faktor (x-2)                                               
+           pa je negativen: produkt je negativen.                                                                       
+           V intervalu x<-5 pa sta oba faktorja negativna produkt je pozitiven.                                         
+           Po zahtevi naloge (x+5)(x-2) < 0 mora biti produkt negativen.                                                
+           Ustreza le interval -5<x<2 in ta je tudi resitev neenacbe.                                                   
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
