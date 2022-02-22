@@ -17,8 +17,8 @@
            (3x+2<2x-1) in (2x-1<4x+3)                                                                                   
                x<-3           x>-2                                                                                      
                                                                                                                         
-              ╞════════     ══════╡                                                                                     
-           ╞══════════╬═════╬══════╬════╡    x<-3 in x>-2                                                               
+              ◄────────     ──────►                                                                                     
+           ◄──────────┼─────┼──────┼────►    x<-3 in x>-2                                                               
                      -#    -@      )         ni resitve !                                                               
                                                                                                                         
    Primer: a(x-a-3) < 2(x-5)                                                                                            
@@ -45,18 +45,18 @@
    1.nacin:Prevedemo jo v sistem dveh neenacb                                                                           
            1.x+5>0                     2.x+5<0                                                                          
              x-2<0                       x-2>0                                                                          
-            ═══════                     ═══════                                                                         
+            ───────                     ───────                                                                         
              x>-5                        x<-5                                                                           
              x<2                         x>2                                                                            
            Presek intervalov           Presek intevalov                                                                 
-           je enak -5<x<2              je enak 2<x<-5 ──> prazna mnozica                                                
+           je enak -5<x<2              je enak 2<x<-5 ══> prazna mnozica                                                
                                                                                                                         
            Neenacba ima resitev -5<x<2.                                                                                 
                                                                                                                         
    2.nacin:Narisemo stevilsko premico.                                                                                  
            Poiscemo nicle leve strani urejene enacbe.(x!=-5,x@=2)                                                       
                                                                                                                         
-               ╞════╬═══════════════╬══════╬═══╡                                                                        
+               ◄────┼───────────────┼──────┼───►                                                                        
                    -5               0     +2                                                                            
                                                                                                                         
            Stevilska premica razpade na tri intervale.                                                                  

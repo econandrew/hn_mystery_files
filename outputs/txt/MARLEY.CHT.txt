@@ -1,61 +1,61 @@
                                                                                                                         
-         ╔════════════════════════════════════════════════════════════╗                                                 
-         ║                                                            ║                                                 
-         ║                                                            ║                                                 
-         ║                                                            ║                                                 
-         ║                                                            ║                                                 
-         ║                                                            ║                                                 
-         ╠════════════════════════════════════════════════════════════╣                                                 
-         ║      BBoobb  MMaarrlleeyy  &&  TThhee  WWaaiilleerrss      ║                                                 
-         ║      BBoobb  MMaarrlleeyy  &&  TThhee  WWaaiilleerrss      ║                                                 
-         ║                        LLeeggeenndd                        ║                                                 
-         ╠═════════════════════════════╦══════════════════════════════╣                                                 
-         ║AA::                         ║BB::                          ║                                                 
-         ║AA::                         ║BB::                          ║                                                 
-         ║- - - - - - - - - - - - - - -║- - - - - - - - - - - - - - - ║                                                 
-         ║1.No woman no cry            ║1.Three little birds          ║                                                 
-         ║                             ║                              ║                                                 
-         ║2.One love/people get ready  ║2.Buffalo soldier             ║                                                 
-         ║                             ║                              ║                                                 
-         ║3.Is this love               ║3.Waiting in a vain           ║                                                 
-         ║                             ║                              ║                                                 
-         ║4.Get up stand up            ║4.Redemption song             ║                                                 
-         ║                             ║                              ║                                                 
-         ║5.I shot the sherif          ║5.Satisfy my soul             ║                                                 
-         ║                             ║                              ║                                                 
-         ║6.Could you be loved         ║6.Exodus                      ║                                                 
-         ║                             ║                              ║                                                 
-         ║7.Stir it up                 ║7.Jamming                     ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ║                             ║                              ║                                                 
-         ╚═════════════════════════════╩══════════════════════════════╝                                                 
+         ┌────────────────────────────────────────────────────────────┐                                                 
+         │                                                            │                                                 
+         │                                                            │                                                 
+         │                                                            │                                                 
+         │                                                            │                                                 
+         │                                                            │                                                 
+         ├────────────────────────────────────────────────────────────┤                                                 
+         │      BBoobb  MMaarrlleeyy  &&  TThhee  WWaaiilleerrss      │                                                 
+         │      BBoobb  MMaarrlleeyy  &&  TThhee  WWaaiilleerrss      │                                                 
+         │                        LLeeggeenndd                        │                                                 
+         ├─────────────────────────────┬──────────────────────────────┤                                                 
+         │AA::                         │BB::                          │                                                 
+         │AA::                         │BB::                          │                                                 
+         │- - - - - - - - - - - - - - -│- - - - - - - - - - - - - - - │                                                 
+         │1.No woman no cry            │1.Three little birds          │                                                 
+         │                             │                              │                                                 
+         │2.One love/people get ready  │2.Buffalo soldier             │                                                 
+         │                             │                              │                                                 
+         │3.Is this love               │3.Waiting in a vain           │                                                 
+         │                             │                              │                                                 
+         │4.Get up stand up            │4.Redemption song             │                                                 
+         │                             │                              │                                                 
+         │5.I shot the sherif          │5.Satisfy my soul             │                                                 
+         │                             │                              │                                                 
+         │6.Could you be loved         │6.Exodus                      │                                                 
+         │                             │                              │                                                 
+         │7.Stir it up                 │7.Jamming                     │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         │                             │                              │                                                 
+         └─────────────────────────────┴──────────────────────────────┘                                                 
                                                                                                                         
                                                                                                                         
                                                                                                                         
